@@ -1,0 +1,1 @@
+OpenCV algorithm to sort the shape and color using Raspberry Pi which serially communicates to the hardware control board arduino which controls the motors to accurately classify and categorize objects
